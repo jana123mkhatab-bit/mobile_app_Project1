@@ -19,11 +19,12 @@ UrShop is a Flutter-based mobile shopping application that allows users to sign 
    ```bash
    git clone https://github.com/jana123mkhatab-bit/mobile_app_Project.git
 
-## screenshotd
+## screenshots
 ![Welcome_Screen](ScreenShots/Welcome%20page.pngWelcome page.png)
 ![Sign_in_Screen](ScreenShots/sign%20in%20page.pngsign in page.png)
 ![Sign_up_screen](ScreenShots/Sign%20Up%20page.pngSign Up page.png)
 ![Home_page_screen](ScreenShots/Home%20Page.png)
 ![Drawer_in_Home_page_screen](ScreenShots/Drawer%20in%20home%20page.png)
 ![settings](ScreenShots/settings%20page.png)
+
 ![profile_page](ScreenShots/Profile%20Page.png)
